@@ -1,2 +1,2 @@
-# IDS_part_2
+# Intrusion_Detection_System
 IDS - Using Machine Learning and Genetic Algorithms
